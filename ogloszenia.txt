@@ -1,0 +1,16 @@
+TAK wyplata10k parking multisport pilkarzyki owoce
+TAK wyplata10k daleko pilkarzyki lunch
+TAK pilkarzyki parking multisport zdalnie
+TAK wyplata10k stacjonarnie owoce pilkarzyki
+NIE multisport rower napoje
+NIE daleko stacjonarnie wyplata3k lunch
+NIE wyplata3k multisport owoce napoje 
+NIE wyplata3k stacjonarnie napoje daleko
+TAK wyplata10k xbox multisport pilkarzyki owoce zdalnie
+TAK wyplata10k xbox pilkarzyki lunch
+TAK pilkarzyki xbox multisport lunch zdalnie
+TAK wyplata10k stacjonarnie owoce pilkarzyki
+NIE multisport rower napoje
+NIE daleko stacjonarnie wyplata3k
+NIE wyplata3k multisport owoce napoje zdalnie
+NIE wyplata3k stacjonarnie napoje daleko
